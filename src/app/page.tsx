@@ -16,6 +16,7 @@ const page = () => {
       <Card />
       <Footer />
       
+      
     </div>
   )
 }
