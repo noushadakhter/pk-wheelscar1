@@ -54,7 +54,7 @@ const Footer = () => {
       {/* Copyright Section */}
       <div className="mt-10 text-center text-gray-400">
         <p>Copyright &copy; {new Date().getFullYear()} Made by Noushad Akhter (pvt). All Rights Reserved. <br />
-          Terms of Service | Privacy Policy
+          Terms of Service | Privacy Policy Unofficial
         </p>
       </div>
     </footer>
